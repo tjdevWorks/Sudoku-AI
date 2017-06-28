@@ -30,7 +30,7 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 * `visualize.py` - Do not modify this. This is code for visualizing your solution.
 
 ### Results
-Run file `python solution.py` to view the results. Note to see visualization you have to have pygame installed.
+Run file `python solution.py` to view the results. Note to see the below visualization you have to have pygame installed.
 
 ![Alt Text](https://media.giphy.com/media/14cgnXEMjdAxWw/giphy.gif)
 
