@@ -29,9 +29,10 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 * `PySudoku.py` - Do not modify this. This is code for visualizing your solution.
 * `visualize.py` - Do not modify this. This is code for visualizing your solution.
 
-### Visualizing
+### Results
+Run file `python solution.py` to view the results. Note to see visualization you have to have pygame installed.
 
-To visualize your solution, please only assign values to the values_dict using the `assign_value` function provided in solution.py
+![Alt Text](https://media.giphy.com/media/14cgnXEMjdAxWw/giphy.gif)
 
 ### Submission
 Before submitting your solution to a reviewer, you are required to submit your project to Udacity's Project Assistant, which will provide some initial feedback.  
